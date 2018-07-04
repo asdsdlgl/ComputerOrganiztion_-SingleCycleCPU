@@ -1,0 +1,250 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/user/Desktop/src
+vALU
+Z1 !s110 1492967776
+!i10b 1
+!s100 Y3]?CSoKn6Q^BEhgZiIm]1
+I<n`P:2dIQkH]LB9Nz36<c3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1492939867
+8ALU.v
+FALU.v
+L0 3
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1492967775.000000
+Z5 !s107 ALU.v|Controller.v|DM.v|IM.v|Jump_Ctrl.v|Mux2to1.v|Mux4to1.v|PC.v|Regfile.v|C:/Users/user/Desktop/src/top.v|
+Z6 !s90 -reportprogress|300|-work|work|C:/Users/user/Desktop/src/top.v|
+!s101 -O0
+!i113 1
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@l@u
+vController
+R1
+!i10b 1
+!s100 EGXoC0EU8M>JmedLe5B=f2
+I^19@Q]LOkzYFz6m5C4E>m3
+R2
+R0
+w1492942673
+8Controller.v
+FController.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+n@controller
+vDM
+R1
+!i10b 1
+!s100 f<VRU;@6bZ2BA]NR4HCTS3
+IiR<jTjUZZ2QT]MCJmHIna3
+R2
+R0
+Z8 w1480613934
+8DM.v
+FDM.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+n@d@m
+vIM
+R1
+!i10b 1
+!s100 7Q25d3o8mk4<eQ3Cj@GJ_1
+IE_4I10<z`MQNnk4dQ`?3T2
+R2
+R0
+R8
+8IM.v
+FIM.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+n@i@m
+vJump_Ctrl
+R1
+!i10b 1
+!s100 4`e=]Sb7H;MSjJQVm:YJ:0
+IBbl5NY_aOeS>I<QX1JJo33
+R2
+R0
+w1492948825
+8Jump_Ctrl.v
+FJump_Ctrl.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+n@jump_@ctrl
+vMux2to1
+R1
+!i10b 1
+!s100 DG_fQliKm4BQmD]nc3d3o1
+Il61Lz8F2eC[fUUUThc@8E2
+R2
+R0
+w1492947755
+8Mux2to1.v
+FMux2to1.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+n@mux2to1
+vMux4to1
+R1
+!i10b 1
+!s100 T2EP=n5d2THEB_:0jYeP91
+IJEV1R;lhgzkRIfhYX4OJ>3
+R2
+R0
+w1492945383
+8Mux4to1.v
+FMux4to1.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+n@mux4to1
+vPC
+R1
+!i10b 1
+!s100 _P;]Hk37fI<IoaC[KnKa]2
+IBCTmoD9AM2oiMVEE1KNnU1
+R2
+R0
+w1492943530
+8PC.v
+FPC.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+n@p@c
+vRegfile
+R1
+!i10b 1
+!s100 NniOdmNBc1:Z=NT:S[;[G0
+I``1FWN8R7RIWkF<SFe4?h1
+R2
+R0
+w1492862447
+8Regfile.v
+FRegfile.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+n@regfile
+vtestfixture1
+!s110 1492943489
+!i10b 1
+!s100 Y6K1b;j80>RkPnicXJY^b0
+IleFMZQ9=K5O7j6;VjInX51
+R2
+R0
+w1484581970
+8C:/Users/user/Desktop/src/testfixture1.v
+FC:/Users/user/Desktop/src/testfixture1.v
+L0 8
+R3
+r1
+!s85 0
+31
+!s108 1492943489.000000
+!s107 C:/Users/user/Desktop/src/testfixture1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/src/testfixture1.v|
+!s101 -O0
+!i113 1
+R7
+vtop
+R1
+!i10b 1
+!s100 >EIERJ3S0INF;I7aE4?^52
+ImgX4AU2@^8km@[e1K]N9m0
+R2
+R0
+w1492967752
+8C:/Users/user/Desktop/src/top.v
+FC:/Users/user/Desktop/src/top.v
+L0 11
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+!i113 1
+R7
